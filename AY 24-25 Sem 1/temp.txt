@@ -1,2 +1,0 @@
-Currently this is a temporary text file but as we go along; the format of this directory (and newly created ones) 
-will be shaped to have a certain order to them that will be clearly understandable.
