@@ -10,6 +10,6 @@ As our Workshop will involve a Code-Along; it is recommended to have an Integrat
 The external Dataset that will be primarily used alongside this code is the ```"Cars_below_50k_v2_11-12-2023.xlsx"``` Excel file. Ensure that this file is located in the same folder as the code and the requirements.txt file.
 
 ## Code
-The Code is setup in a jupyter notebook (.ipynb) file that is pragmatic to run in Data Science and Analysis (DSA) Applications. It allows for segments of code to be run individually and also supports Markdowns and Images in alongside code blocks. As the syntax is primarily similar to standard CPython files and it can be run by most IDEs that can run python files - unfamiliarity with Jupyter Notebooks is not something to be overly concerned with for the Workshop. 
+The Code is setup in a jupyter notebook ```(.ipynb)``` file that is pragmatic to run in Data Science and Analysis (DSA) Applications. It allows for segments of code to be run individually and also supports Markdowns (Text) and Images alongside code blocks. As the syntax is primarily similar to standard CPython files and it can be run by most IDEs that can run python files - unfamiliarity with Jupyter Notebooks is not something to be overly concerned with for the Workshop. 
 
 Should you have any queries apart from those mentioned above, do feel free to raise them during the Workshop segment. Thank you and happy coding!
