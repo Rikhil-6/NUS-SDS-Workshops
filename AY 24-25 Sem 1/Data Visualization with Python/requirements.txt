@@ -4,3 +4,4 @@ openpyxl==3.0.9
 matplotlib==3.4.3
 seaborn==0.11.2
 plotly==5.3.1
+scikit-learn==1.5.0
