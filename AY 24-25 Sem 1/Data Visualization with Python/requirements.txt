@@ -5,3 +5,4 @@ matplotlib==3.4.3
 seaborn==0.11.2
 plotly==5.3.1
 scikit-learn==1.5.0
+nbformat==5.10.0
