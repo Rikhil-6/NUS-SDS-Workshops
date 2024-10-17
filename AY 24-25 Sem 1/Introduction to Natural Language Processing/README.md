@@ -66,7 +66,7 @@ The RAG pipeline allows the chatbot to answer questions based on retrieved-conte
 
 ## Project Structure
 
-- **`retrieval-augemnted-generation-example.ipynb`**: Main script containing the chatbot and RAG pipeline.
+- **`RAG_example.ipynb`**: Main script containing the chatbot and RAG pipeline.
 - **`story.txt`**: Knowledge base containing contextual information for RAG.
 
 ---
