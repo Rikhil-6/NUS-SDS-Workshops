@@ -47,3 +47,5 @@ When they finally unveiled the PHI at the university’s data science symposium,
 For the SDSS, this wasn’t the end—it was just the beginning. They had proven that with mathematics, coding, and a bit of imagination, the possibilities were limitless. They had learned from one another, grown together, and, most importantly, found joy in the world of numbers.
 
 And so, as the university chapters of their lives came to a close, Jerry, Eugene, Gangjoon, and Kaiwen knew one thing for certain: no matter where the future took them, they would always be a team. Together, they had created something remarkable, and in the process, they had discovered not just the power of data, but the power of friendship.
+
+<ADD YOUR OWN TEXT HERE! TEST OUT THE RETRIEVAL METHODS>
