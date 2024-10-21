@@ -1,6 +1,6 @@
 # SDS Chatbot with RAG Pipeline
 
-This repository contains a chatbot that can be used with or without a Retrieval-Augmented Generation (RAG) pipeline. The chatbot interacts with users and responds based on context provided. It can either fetch responses directly from a language model (without RAG) or leverage a vector store to retrieve relevant context from predefined knowledge (with RAG).
+This repository contains a chatbot that can be used with or without a Retrieval-Augmented Generation (RAG) pipeline. The chatbot interacts with users and responds based on context provided. It can either fetch responses directly from a language model (without RAG) or leverage a vector store to retrieve relevant context from predefined knowledge (with RAG). You may download the directory to your computer by clicking on the link [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FRikhil-6%2FNUS-SDS-Workshops%2Ftree%2Fmain%2FAY%252024-25%2520Sem%25201%2FIntroduction%2520to%2520Natural%2520Language%2520Processing)
 
 ## Features
 - **Chat Mode**: A simple chatbot that responds to questions based on predefined prompts.
