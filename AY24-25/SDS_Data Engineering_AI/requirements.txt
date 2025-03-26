@@ -5,4 +5,5 @@ langchain-openai==0.3.10
 pandas==2.2.2
 matplotlib==3.10.1
 seaborn==0.13.2
+parquet==1.3.1
 pyarrow==19.0.0
