@@ -12,6 +12,7 @@ As our Workshop will have Code-Along segments; it is recommended to have an Inte
 Owing to the use of Python - it is also necessary to have a version of Python greater than Python 3.8 installed on your device. We also employ a number of libraries which you may not have downloaded previously - fear not because
 you may simply run the `pip install -r path/to/requirements.txt` command in your terminal (amending the `path/to/requirements.txt` path as need be)
 
+**Further Assistance**
 
 Should you have any queries apart from those mentioned above, do feel free to raise them before/during the Workshop segment. 
 Thank you and happy coding!
